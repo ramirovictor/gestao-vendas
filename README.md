@@ -13,6 +13,10 @@
 + Error handling withException Handler
 + Documentation with Swagger.
 
+
+#### code in portuguese
+
+
 ## Technologies and Tools
 <table>
   <tr> 
