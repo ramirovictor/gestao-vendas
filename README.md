@@ -1,19 +1,19 @@
-<h1>API-Rest/Spring Boot-Java11</h1> 
-<h3>Curso Udemy</h3>
+<h1>API-Rest/Spring Boot-Java 11</h1> 
+<h3>Course Udemy</h3>
 
-> Status: concluído 🌐
+> Status: Done 🌐
 
-### Curso: API Rest com Java e Spring Boot do iniciante ao especialista. Prof. Luis Eduardo Marques.
-+ API Rest com Sprint Boot
+### Course:Rest API with Java and Spring Boot from beginner to expert. Teacher Luis Eduardo Marques.
++ API Rest with Sprint Boot
 + Spring Initializr
-+ Mysql, Jaeger, Prometheus e Grafana utilizando o docker-compose
-+ Criação das tabelas com Flyway
++ Mysql, Jaeger, Prometheus and  Grafana using the docker-compose
++ Creating tables with Flyway
 + JPA
-+ Validações com Bean Validation
-+ Tratamento de erros com Exception Handler
-+ Documentação com Swagger.
++ Validations with Bean Validation
++ Error handling withException Handler
++ Documentation with Swagger.
 
-##Tecnologias e Ferramentas
+## Technologies and Tools
 <table>
   <tr> 
     <td>Java</td>
