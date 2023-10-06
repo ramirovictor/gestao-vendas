@@ -1,34 +1,26 @@
-<h1>API-Rest/Spring Boot-Java 11</h1> 
-<h3>Course Udemy</h3>
+# API-Rest/Spring Boot-Java 11 🌱
 
-> Status: Done 🌐
+## 🎓 Udemy Course
+**Course:** Rest API with Java and Spring Boot from beginner to expert.  
+**Instructor:** Luis Eduardo Marques.
 
-### Course:Rest API with Java and Spring Boot from beginner to expert. Teacher Luis Eduardo Marques.
-+ API Rest with Sprint Boot
-+ Spring Initializr
-+ Mysql, Jaeger, Prometheus and  Grafana using the docker-compose
-+ Creating tables with Flyway
-+ JPA
-+ Validations with Bean Validation
-+ Error handling withException Handler
-+ Documentation with Swagger.
+> **Status:** 🌐 Done
 
+### 📘 Course Content
+- API Rest with Spring Boot
+- Spring Initializr
+- Mysql, Jaeger, Prometheus, and Grafana using docker-compose
+- Creating tables with Flyway
+- JPA
+- Validations with Bean Validation
+- Error handling with Exception Handler
+- Documentation with Swagger.
 
-#### code in portuguese
+_Note: Code is in Portuguese._
 
+## 💼 Technologies and Tools
+![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Swagger Badge](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
+![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-## Technologies and Tools
-<table>
-  <tr> 
-    <td>Java</td>
-    <td>Mysql</td>
-    <td>Swagger</td>
-    <td>Windows</td>
-  </tr>
-  <tr> 
-    <td>11</td>
-    <td>*</td>
-    <td>*</td>
-    <td>10</td>
-  </tr>
-</table>
